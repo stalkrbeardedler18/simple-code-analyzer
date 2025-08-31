@@ -8,5 +8,9 @@
   },
   "keywords": ["code", "analyzer", "complexity", "readability", "maintainability"],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/simple-code-analyzer.git"
+  }
 }
