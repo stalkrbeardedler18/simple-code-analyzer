@@ -4,7 +4,7 @@
   "description": "A tool that analyzes code for complexity and suggests simplifications to improve readability and maintainability.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": ["code", "analyzer", "complexity", "readability", "maintainability"],
   "author": "Your Name",
